@@ -1,36 +1,46 @@
 {
   "project_info": {
-    "project_number": "958451411139",
-    "project_id": "bookify-v2-69f17",
-    "storage_bucket": "bookify-v2-69f17.appspot.com"
+    "project_number": "947806817344",
+    "firebase_url": "https://onlearn-8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "onlearn-8",
+    "storage_bucket": "onlearn-8.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:958451411139:android:768ddab2a46c2dfec41a76",
+        "mobilesdk_app_id": "1:947806817344:android:2b136bf45ab135697923a5",
         "android_client_info": {
-          "package_name": "com.noddy.ebook"
+          "package_name": "com.example.onlearn"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "958451411139-8p6s2ldnjohhvvpbe1fd2gduqlup1oin.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAdliOwtn4bpgOC7Cw2u44mWZd-6uqLCnY"
+          "current_key": "AIzaSyDFFyebuWPtfKFgRI9HQowuG_7uIKOs9Xk"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "958451411139-8p6s2ldnjohhvvpbe1fd2gduqlup1oin.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947806817344:android:c25e8cbe71446e6e7923a5",
+        "android_client_info": {
+          "package_name": "com.noddy.book"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFFyebuWPtfKFgRI9HQowuG_7uIKOs9Xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
         }
       }
     }
